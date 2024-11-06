@@ -1,0 +1,14 @@
+
+
+
+
+
+
+
+PRODUCT_NAME = api_bloc_cubit_dio
+
+
+PRODUCT_BUNDLE_IDENTIFIER = com.example.apiBlocCubitDio
+
+
+PRODUCT_COPYRIGHT = Copyright © 2024 com.example. All rights reserved.
